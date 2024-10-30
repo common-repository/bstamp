@@ -1,0 +1,92 @@
+#bstamp {
+    .app-title {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 1em;
+    }
+}
+.App {
+  border: 2px solid #d3d3d3;
+  border-radius: .5em;
+  // margin-bottom: 1em;
+  // margin-left: auto;
+  // margin-right: auto;
+  // margin-top: 100px;
+  padding: 1em;
+  // text-align: left;
+  width: 600px;
+}
+.form {
+  padding: 1em;
+}
+
+label {
+  font-weight: 600;
+}
+
+.validation-error{
+    color:red;
+}
+.edexa-logo-image{
+    height: auto;
+    width: 150px;
+}
+.edexa-logo-link, .edexa-logo-link:hover, .edexa-logo-link:focus{
+    box-shadow:none;
+    display: flex;
+    align-items: center;
+}
+.header-right{
+    float:right;
+}
+.mt-200{
+  margin-top: 200px;
+}
+.bstamp-logo-image{
+    height: auto;
+    width: 150px;
+}
+#wpcontent{
+    padding-right: 20px;
+    height: 70vh;
+}
+#wpbody{
+    height: 70vh;   
+}
+#wpbody-content{
+    padding-bottom:0;
+    height: 70vh;
+}
+#bstamp{
+    height: 70vh;
+}
+.bstam-dashboard{
+    height: 80vh;
+}
+.edexa-button-color{
+    color: #0a0a0a !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    background-image: none;
+    border: 1px solid #3183ff !important;
+    border-radius: 30px !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0;
+    padding: 10px 30px !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 1.4 !important;
+    text-decoration: none;
+    transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), background-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) !important;
+    position: static;
+}
+.edexa-button-color:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
+    transform: scale(.98);
+    box-shadow: 0 0 20px #3183ff;
+}
+.padding-20{
+    padding: 0 20px;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "edexa/bstamp",
+    "description": "A bStamp plugin that helps protect your rights in your digital creations by posting a unique imprint of your posts on the blockchain.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Edexa\\Bstamp\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edexa",
+            "email": "s.sinh@edexa.team"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

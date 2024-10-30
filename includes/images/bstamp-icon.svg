@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="20px" viewBox="0 0 24 20" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 5 0 L 24 0 L 24 20 L 5 20 Z M 5 0 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 15.191406 1.597656 L 6.679688 10.652344 C 4.675781 12.78125 4.675781 16.269531 6.679688 18.402344 C 8.683594 20.53125 11.960938 20.53125 13.964844 18.402344 L 22.480469 9.347656 C 24.484375 7.21875 24.484375 3.730469 22.480469 1.597656 C 21.476562 0.53125 20.15625 0 18.835938 0 C 17.515625 0 16.195312 0.53125 15.191406 1.597656 "/>
+</clipPath>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="78.3057" y1="276.291" x2="79.905" y2="276.291" gradientTransform="matrix(10.167223,-10.226797,-8.020388,-8.067383,1426.400489,3048.056641)">
+<stop offset="0" style="stop-color:rgb(0%,74.509804%,95.294118%);stop-opacity:1;"/>
+<stop offset="0.5587" style="stop-color:rgb(0%,74.509804%,95.294118%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,66.27451%,63.921569%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,65.882353%,63.137255%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,65.490196%,61.568627%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.431373%,33.333333%,65.098039%);fill-opacity:1;" d="M 13.964844 18.402344 C 11.960938 20.53125 8.683594 20.53125 6.679688 18.402344 L 1.503906 12.894531 C -0.5 10.765625 -0.5 7.277344 1.503906 5.144531 C 3.507812 3.015625 6.785156 3.015625 8.789062 5.144531 L 13.964844 10.652344 C 15.96875 12.78125 15.96875 16.269531 13.964844 18.402344 "/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M -5.53125 10.265625 L 14.578125 -9.960938 L 34.691406 10.265625 L 14.578125 30.496094 Z M -5.53125 10.265625 "/>
+</g>
+</g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 12.417969 14.46875 C 12.417969 15.714844 11.464844 16.726562 10.292969 16.726562 C 9.121094 16.726562 8.171875 15.714844 8.171875 14.46875 C 8.171875 13.222656 9.121094 12.210938 10.292969 12.210938 C 11.464844 12.210938 12.417969 13.222656 12.417969 14.46875 "/>
+</g>
+</svg>
